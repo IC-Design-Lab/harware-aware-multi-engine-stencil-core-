@@ -1,0 +1,6 @@
+1779350665421:"runMain Stencils.s_dual"
+1779350695494:sbt "runMain Stencils.s_dual"
+1779350840176:clear
+1779928983242:sbt compile
+1779928998500:clear
+1779937553529:sbt "runMain Stencils.s_dual"

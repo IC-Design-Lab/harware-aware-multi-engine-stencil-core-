@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 210 products, 13 sources, 7 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/FPPackageMario/FP_Modules/FPUnits.scala, ${BASE}/src/main/scala/TB/testbench.scala, ${BASE}/src/main/scala/FPPackageMario/Binary_Modules/BinaryDesigns2.scala, ${BASE}/src/main/scala/FPPackageMario/FP_Modules/FormatConvert.scala, ${BASE}/src/main/scala/Generate/generate.scala, ${BASE}/src/main/scala/FIFOs/fifo_d_beh.scala, ${BASE}/src/main/scala/d_p/Stencils.scala, ${BASE}/src/main/scala/FPPackageMario/Binary_Modules/BinaryDesigns.scala, ${BASE}/src/main/scala/Primitives/primitives.scala, ${BASE}/src/main/scala/FloatingPoint/FloatingPointFormat.scala, ${BASE}/src/main/scala/Primitives/convert.scala, ${BASE}/src/main/scala/FloatingPoint/fpu.scala, ${BASE}/src/main/scala/d_p/Stencils_newfpu_FIFO.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

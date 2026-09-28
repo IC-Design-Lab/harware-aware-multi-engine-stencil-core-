@@ -1,0 +1,33 @@
+
+
+`ifdef SC_R1_K2_3D
+//if(error_percent0  <=`ERROR_THRESHOLD) begin $fwrite(report, "Item0   Comp Pass! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent0  , golden_real_item0  , dut_real_item0  ); end else begin $fwrite(report, "Item0   Comp FAIL! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent0  , golden_real_item0  , dut_real_item0  ); end 
+if(error_percent1  <=`ERROR_THRESHOLD) begin $fwrite(report, "Item1   Comp Pass! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent1  , golden_real_item1  , dut_real_item1  ); end else begin $fwrite(report, "Item1   Comp FAIL! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent1  , golden_real_item1  , dut_real_item1  ); end 
+//if(error_percent2  <=`ERROR_THRESHOLD) begin $fwrite(report, "Item2   Comp Pass! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent2  , golden_real_item2  , dut_real_item2  ); end else begin $fwrite(report, "Item2   Comp FAIL! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent2  , golden_real_item2  , dut_real_item2  ); end 
+`endif //
+
+`ifdef SC_R1_K2_2D
+if(error_percent0  <=`ERROR_THRESHOLD) begin $fwrite(report, "Item0   Comp Pass! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent0  , golden_real_item0  , dut_real_item0  ); end else begin $fwrite(report, "Item0   Comp FAIL! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent0  , golden_real_item0  , dut_real_item0  ); end 
+//if(error_percent1  <=`ERROR_THRESHOLD) begin $fwrite(report, "Item1   Comp Pass! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent1  , golden_real_item1  , dut_real_item1  ); end else begin $fwrite(report, "Item1   Comp FAIL! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent1  , golden_real_item1  , dut_real_item1  ); end 
+//if(error_percent2  <=`ERROR_THRESHOLD) begin $fwrite(report, "Item2   Comp Pass! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent2  , golden_real_item2  , dut_real_item2  ); end else begin $fwrite(report, "Item2   Comp FAIL! error percent: %f%%, golden result: %f, dut result: %f\n", error_percent2  , golden_real_item2  , dut_real_item2  ); end 
+`endif //
+
+
+
+`ifdef SC_R1_K8_3D
+
+if(error_percent0 <= `ERROR_THRESHOLD) begin
+    $fwrite(report,
+        "Packet=%0d Lane=%0d Item0 Comp PASS! error percent: %f%%, golden result: %f, dut result: %f\n",
+        output_packet, lane, error_percent0, golden_real_item0, dut_real_item0
+    );
+end else begin
+    $fwrite(report,
+        "Packet=%0d Lane=%0d Item0 Comp FAIL! error percent: %f%%, golden result: %f, dut result: %f\n",
+        output_packet, lane, error_percent0, golden_real_item0, dut_real_item0
+    );
+end
+
+$fflush(report);
+
+`endif

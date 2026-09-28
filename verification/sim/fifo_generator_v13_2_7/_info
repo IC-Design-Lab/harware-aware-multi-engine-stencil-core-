@@ -1,0 +1,202 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Projects/Chisel/Stencil Computation/Stencil-Accelerator-New-FPUs/verification/sim
+v9jE+HaaQtxuiXubHsFojCcE31kWHDvIzRAvaoKgrFvc=
+!s110 1780555429
+!i10b 0
+!s100 Ac?7E^lgo:j9fARhG=Ilo0
+I0:OTnn8c`XOln[8PSecQ61
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 1175143072
+R0
+w1780555429
+8E:/Projects/Xilinx/Stencil_Accelerator_8x8x7/project_1/project_1.ip_user_files/ipstatic/hdl/fifo_generator_v13_2_rfs.v
+FE:/Projects/Xilinx/Stencil_Accelerator_8x8x7/project_1/project_1.ip_user_files/ipstatic/hdl/fifo_generator_v13_2_rfs.v
+L0 105
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1780555428.000000
+!s107 E:/Projects/Xilinx/Stencil_Accelerator_8x8x7/project_1/project_1.ip_user_files/ipstatic/hdl/fifo_generator_v13_2_rfs.v|
+!s90 -reportprogress|300|-work|fifo_generator_v13_2_7|-incr|-mfcu|E:/Projects/Xilinx/Stencil_Accelerator_8x8x7/project_1/project_1.ip_user_files/ipstatic/hdl/fifo_generator_v13_2_rfs.v|
+!i113 1
+Z3 o-work fifo_generator_v13_2_7 -mfcu
+Z4 tCvgOpt 0
+n49bcb57
+vfifo_generator_v13_2_7_axic_reg_slice
+Z5 !s110 1780555428
+!i10b 1
+!s100 k7SefGU8eeTRYkgH3>S530
+IiNEHaMYTbDJ@I1iYI=0>Y1
+R1
+R0
+Z6 w1780552527
+Z7 8E:/Projects/Xilinx/Stencil_Accelerator_8x8x7/project_1/project_1.ip_user_files/ipstatic/simulation/fifo_generator_vlog_beh.v
+Z8 FE:/Projects/Xilinx/Stencil_Accelerator_8x8x7/project_1/project_1.ip_user_files/ipstatic/simulation/fifo_generator_vlog_beh.v
+L0 10324
+R2
+r1
+!s85 0
+31
+Z9 !s108 1780555427.000000
+Z10 !s107 E:/Projects/Xilinx/Stencil_Accelerator_8x8x7/project_1/project_1.ip_user_files/ipstatic/simulation/fifo_generator_vlog_beh.v|
+Z11 !s90 -reportprogress|300|-work|fifo_generator_v13_2_7|-incr|-mfcu|E:/Projects/Xilinx/Stencil_Accelerator_8x8x7/project_1/project_1.ip_user_files/ipstatic/simulation/fifo_generator_vlog_beh.v|
+!i113 1
+R3
+R4
+vfifo_generator_v13_2_7_beh_ver_ll_afifo
+R5
+!i10b 1
+!s100 ?gmM9b]ecg=R0f50>NRnI1
+I:Ne@GXmlDe7[bo>;oED1@2
+R1
+R0
+R6
+R7
+R8
+L0 6937
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+vfifo_generator_v13_2_7_bhv_ver_as
+Z12 !s110 1780555427
+!i10b 1
+!s100 A^K9mX0^PRGzhADnJ1Tcn3
+IdhAQDhg1SHoBQ`DfGh2CR1
+R1
+R0
+R6
+R7
+R8
+L0 4959
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+vfifo_generator_v13_2_7_bhv_ver_preload0
+R5
+!i10b 1
+!s100 Ye8_P@^Sa8AfU9E]:OLk]1
+IN;o1HZajF7zDV99;<QB270
+R1
+R0
+R6
+R7
+R8
+L0 9206
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+vfifo_generator_v13_2_7_bhv_ver_ss
+R5
+!i10b 1
+!s100 >]=hFQ=;jCRIi0>i@KIWO1
+IcVDJKlTl@i_QAc=eZU95M2
+R1
+R0
+R6
+R7
+R8
+L0 7065
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+vfifo_generator_v13_2_7_CONV_VER
+R12
+!i10b 1
+!s100 N5X?>L2:VB>LP3Y1Llz8c0
+I=:8HM@]C7Zkn^2KO`enzF0
+R1
+R0
+R6
+R7
+R8
+L0 3366
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nfifo_generator_v13_2_7_@c@o@n@v_@v@e@r
+vfifo_generator_v13_2_7_sync_stage
+R12
+!i10b 1
+!s100 LXHO]HBG@aNZnV_D]k@8F3
+IDdLNfILzY<5noIM7@gaNb3
+R1
+R0
+R6
+R7
+R8
+L0 4938
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+vfifo_generator_vlog_beh
+R12
+!i10b 1
+!s100 DWI1dlYWKSDI3dz>X76NC1
+IW_XD_PJOcYKISN0=fKH293
+R1
+R0
+R6
+R7
+R8
+L0 98
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4

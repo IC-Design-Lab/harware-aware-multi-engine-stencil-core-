@@ -1,0 +1,415 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Projects/Chisel/Stencil Computation/Stencil-Accelerator-New-FPUs/verification/sim
+vasym_bwe_bb
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1780555426
+!i10b 1
+!s100 fDlod;@015iT2RoIY0c;d3
+I;B@i^K@AI1@_b3NF1m7FR3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 xpm_cdc_sv_unit
+S1
+R0
+Z5 w1650335145
+Z6 8C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Z7 FC:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+L0 8101
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1780555425.000000
+Z10 !s107 C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv|C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv|
+Z11 !s90 -reportprogress|300|-work|xpm|-incr|-mfcu|-sv|C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv|C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv|
+!i113 1
+Z12 o-work xpm -mfcu -sv
+Z13 tCvgOpt 0
+Pvcomponents
+DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z14 w1650335143
+R0
+8C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_VCOMP.vhd
+FC:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_VCOMP.vhd
+l0
+L11
+V]cDai7OaDY@Ua>`^I9?I<3
+!s100 9IYfdV^[1onH3NSji;jHa1
+OV;C;10.5b;63
+31
+!s110 1780555427
+!i10b 1
+!s108 1780555427.000000
+!s90 -reportprogress|300|-work|xpm|-93|C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_VCOMP.vhd|
+!s107 C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_VCOMP.vhd|
+!i113 1
+o-work xpm -93
+tExplicit 1 CvgOpt 0
+vxpm_cdc_array_single
+R1
+R2
+!i10b 1
+!s100 c:llD<HNOa?_eAe@DOe9C1
+Ihnc`MFzo3nN23<kiNQO:`2
+R3
+R4
+S1
+R0
+R14
+Z15 8C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv
+Z16 FC:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv
+L0 903
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_cdc_async_rst
+R1
+R2
+!i10b 1
+!s100 0^B>I@]YG>O`F06]ME?Kz2
+IbD503nIc>hC8HH;k_o??`3
+R3
+R4
+S1
+R0
+R14
+R15
+R16
+L0 1175
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_cdc_gray
+R1
+Z17 !s110 1780555425
+!i10b 1
+!s100 [P>o>Q52U4loD53ONjOXd1
+Ig8h;LEE2chZ2D<bMRY1aO3
+R3
+R4
+S1
+R0
+R14
+R15
+R16
+L0 284
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_cdc_handshake
+R1
+R2
+!i10b 1
+!s100 2nX[0D7bN@CTBzPhT6ZId2
+IdHNc@W<biMTJ>_0M56:HB2
+R3
+R4
+S1
+R0
+R14
+R15
+R16
+L0 469
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_cdc_low_latency_handshake
+R1
+R2
+!i10b 1
+!s100 DUQY8F6f@DWmT?f9Uo8G01
+IPGI;@MlX[R0R;B2l2nL193
+R3
+R4
+S1
+R0
+R14
+R15
+R16
+L0 1265
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_cdc_pulse
+R1
+R2
+!i10b 1
+!s100 =[IbJ?5ZSd_W^B7BUX1:S1
+I^gRS]?_m:l=cCN2A_@_eM0
+R3
+R4
+S1
+R0
+R14
+R15
+R16
+L0 715
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_cdc_single
+R1
+R17
+!i10b 1
+!s100 `D7D<<mVk9?lZ=cmXJeUg2
+IPKLTHLj`S`5>F5QPiP6Qg0
+R3
+R4
+S1
+R0
+R14
+R15
+R16
+L0 153
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_cdc_sync_rst
+R1
+R2
+!i10b 1
+!s100 @dYCPP;m5zDamfDG6bFZm0
+I<n6>RD9bE:3BCTDSF`em03
+R3
+R4
+S1
+R0
+R14
+R15
+R16
+L0 1059
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_memory_base
+R1
+R2
+!i10b 1
+!s100 @_`HPNM=;OC=G?`U:COVY2
+I^7TKgcOgZ[jej42gD8V`a1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 57
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_memory_dpdistram
+R1
+R2
+!i10b 1
+!s100 `nQS_anX5<82Wm]>hFa=?2
+I9S0=<7Z=_cYFbJaI4ibMQ1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 8162
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_memory_dprom
+R1
+R2
+!i10b 1
+!s100 MjdB?_NY<O0VRR2oFP6F43
+ICRhQTSQcn4GF7H4N5HIz22
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 8306
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_memory_sdpram
+R1
+R2
+!i10b 1
+!s100 LT[_[iC[UWRaAkHeGi?^?2
+IJb=U]]aX8=h5?ocfAL6H>3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 8477
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_memory_spram
+R1
+R2
+!i10b 1
+!s100 SB>aU7ek]=JYlIbVhzigF0
+IDF>lb>MHLI]b=hJUL>P8a1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 8651
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_memory_sprom
+R1
+R2
+!i10b 1
+!s100 ]455Z]@N?T@:WXjIFnDEh0
+Io0]28XMNa^9UXQYb:JLzT0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 8814
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vxpm_memory_tdpram
+R1
+R2
+!i10b 1
+!s100 mVaEdf1YM<Nj;^7X2k=CJ0
+Ii]5z2<A@i<SUg3QDIz5bD1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 8965
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
